@@ -26,8 +26,9 @@ This code should allow users to get a csv file of the useful data from the leagu
 
 ### Prerequisites
 
-The scraper requires the latest version of ChromeDriver
-You can download it from [https://chromedriver.chromium.org/downloads](https://chromedriver.chromium.org/downloads)
+The scraper requires the latest version of ChromeDriver.
+
+It can be downloaded from [https://chromedriver.chromium.org/downloads](https://chromedriver.chromium.org/downloads)
 
 
 
