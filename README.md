@@ -4,14 +4,7 @@
     Returns .csv files of gameweek scores for each squad as well as a detailed breakdown of the players stats for each gameweek.
     Useful for analysis and visualisation of each squad's performance.
     <br />
-    <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/github_username/repo_name">View Demo</a>
-    ·
-    <a href="https://github.com/github_username/repo_name/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/github_username/repo_name/issues">Request Feature</a>
+    
   </p>
 </div>
 
@@ -26,7 +19,7 @@ This code should allow users to get a csv file of the useful data from the leagu
 
 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 
 
@@ -37,7 +30,6 @@ The scraper requires the latest version of ChromeDriver
 You can download it from [https://chromedriver.chromium.org/downloads](https://chromedriver.chromium.org/downloads)
 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
@@ -52,4 +44,3 @@ The columns in the csv file are:
 
 Further details of each stat can be found on the information tab for each player on the FPL website.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
